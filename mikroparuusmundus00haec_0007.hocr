@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroparuusmundus00haec/mikroparuusmundus00haec_0007.png"; bbox 0 0 2018 2729; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 81 193 1861 2511">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 81 193 1861 2511">
+     <span class='ocr_line' id='line_1_1' title="bbox 81 193 1861 2511; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 81 193 1861 2511; x_wconf 95' lang='lat' dir='ltr'>    </span> <span class='ocrx_word' id='word_1_2' title='bbox 1251 2440 1861 2511; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 484 2465 1251 2547">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 484 2454 1378 2547">
+     <span class='ocr_line' id='line_1_2' title="bbox 484 2465 1251 2547; baseline 0.004 -31"><span class='ocrx_word' id='word_1_3' title='bbox 484 2465 492 2484; x_wconf 67' lang='lat'>³</span> <span class='ocrx_word' id='word_1_4' title='bbox 518 2513 527 2531; x_wconf 42' lang='lat' dir='ltr'>f</span> <span class='ocrx_word' id='word_1_5' title='bbox 659 2467 768 2547; x_wconf 59' lang='lat' dir='ltr'>fuel</span> <span class='ocrx_word' id='word_1_6' title='bbox 779 2468 1251 2525; x_wconf 63' lang='lat' dir='ltr'>Lacobffdezetter</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 811 2603 865 2611">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 811 2603 865 2611">
+     <span class='ocr_line' id='line_1_3' title="bbox 811 2603 865 2611; baseline 0.037 -2"><span class='ocrx_word' id='word_1_7' title='bbox 811 2603 865 2611; x_wconf 63' lang='grc' dir='ltr'><strong>η...-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

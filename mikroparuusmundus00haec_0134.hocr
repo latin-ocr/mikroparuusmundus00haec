@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroparuusmundus00haec/mikroparuusmundus00haec_0134.png"; bbox 0 0 2018 2729; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 529 349 1954 401">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 529 349 1954 401">
+     <span class='ocr_line' id='line_1_1' title="bbox 529 349 1954 401; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 529 355 783 401; x_wconf 50' lang='lat' dir='ltr'><em>‘JIORA</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 833 352 1264 400; x_wconf 69' lang='lat' dir='ltr'><em>PORTITVDO</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1316 349 1593 399; x_wconf 70' lang='lat' dir='ltr'><em>FIRMII.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1901 356 1954 398; x_wconf 67' lang='grc' dir='ltr'><em>ὅθ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 123 589 1956 1902">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 123 589 1956 1902">
+     <span class='ocr_line' id='line_1_2' title="bbox 123 589 1956 1902; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 123 589 1956 1902; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 342 2115 1883 2267">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 342 2115 1883 2267">
+     <span class='ocr_line' id='line_1_3' title="bbox 342 2115 1883 2202; baseline 0.013 -37"><span class='ocrx_word' id='word_1_6' title='bbox 342 2121 456 2166; x_wconf 81' lang='lat' dir='ltr'><em>Non</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 461 2115 705 2188; x_wconf 76' lang='lat' dir='ltr'><em>glorietur</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 697 2119 851 2190; x_wconf 73' lang='lat' dir='ltr'><em>fortis</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 861 2124 913 2173; x_wconf 83' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 910 2121 1213 2192; x_wconf 74' lang='lat' dir='ltr'><em>fortitudine</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1208 2126 1304 2193; x_wconf 71' lang='lat' dir='ltr'><em>fita</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1313 2166 1324 2186; x_wconf 94' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1340 2123 1398 2187; x_wconf 61' lang='grc' dir='ltr'><em>ά</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1409 2128 1883 2202; x_wconf 74' lang='lat' dir='ltr'><em>nonglorieturdiues</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 673 2195 1262 2267; baseline 0.012 -20"><span class='ocrx_word' id='word_1_15' title='bbox 673 2199 727 2247; x_wconf 80' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 740 2195 939 2267; x_wconf 63' lang='lat' dir='ltr'><em>diuitq&#39;s.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1020 2203 1262 2261; x_wconf 78' lang='lat' dir='ltr'><em>Ieremi,9.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroparuusmundus00haec/mikroparuusmundus00haec_0126.png"; bbox 0 0 2018 2729; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 576 318 1959 391">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 576 318 1959 391">
+     <span class='ocr_line' id='line_1_1' title="bbox 576 318 1959 391; baseline 0.012 -27"><span class='ocrx_word' id='word_1_1' title='bbox 576 318 885 367; x_wconf 69' lang='lat' dir='ltr'><em>EXEMPL</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 912 325 1029 372; x_wconf 88' lang='lat' dir='ltr'><em>VM</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1066 324 1242 372; x_wconf 76' lang='lat' dir='ltr'><em>VERJ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1272 326 1567 372; x_wconf 80' lang='lat' dir='ltr'><em>AMORIS.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1900 340 1959 391; x_wconf 73' lang='lat'><em>50⁶</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 131 477 1995 1861">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 131 477 1995 1861">
+     <span class='ocr_line' id='line_1_2' title="bbox 131 477 1995 1861; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 131 477 1995 1861; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 361 2061 1801 2216">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 361 2061 1801 2216">
+     <span class='ocr_line' id='line_1_3' title="bbox 361 2061 1801 2139; baseline 0.006 -26"><span class='ocrx_word' id='word_1_7' title='bbox 361 2065 632 2119; x_wconf 57' lang='lat' dir='ltr'><em>maiorem</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 648 2061 737 2115; x_wconf 72' lang='lat' dir='ltr'><em>hac</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 748 2062 1045 2117; x_wconf 55' lang='lat' dir='ltr'><em>dileeffimem</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1057 2083 1191 2119; x_wconf 83' lang='lat' dir='ltr'><em>nemo</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1207 2065 1801 2139; x_wconf 75' lang='lat' dir='ltr'><em>habet,vtanimamsttam</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 472 2139 1391 2216; baseline 0.003 -24"><span class='ocrx_word' id='word_1_12' title='bbox 472 2153 630 2215; x_wconf 80' lang='lat' dir='ltr'><em>ponat</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 642 2145 834 2216; x_wconf 67' lang='lat' dir='ltr'><em>quispro</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 849 2139 1122 2209; x_wconf 57' lang='lat' dir='ltr'><em>amiczzcssaets.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1173 2151 1301 2196; x_wconf 78' lang='lat' dir='ltr'><em>Ioan.</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1320 2160 1391 2210; x_wconf 85' lang='lat'><em>15.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

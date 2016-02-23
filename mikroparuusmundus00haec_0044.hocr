@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroparuusmundus00haec/mikroparuusmundus00haec_0044.png"; bbox 0 0 2018 2729; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 361 305 1915 357">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 361 305 1915 357">
+     <span class='ocr_line' id='line_1_1' title="bbox 361 305 1915 357; baseline 0.002 -15"><span class='ocrx_word' id='word_1_1' title='bbox 361 306 498 344; x_wconf 70' lang='lat' dir='ltr'><em>SINE</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 534 305 761 346; x_wconf 74' lang='lat' dir='ltr'>CERERE</span> <span class='ocrx_word' id='word_1_3' title='bbox 788 308 858 344; x_wconf 77' lang='grc' dir='ltr'><em>ΕΓ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 897 305 1156 345; x_wconf 67' lang='grc' dir='ltr'><strong><em>ΒΑΟΟΠΟ</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1190 305 1415 344; x_wconf 69' lang='lat' dir='ltr'>FRIGET</span> <span class='ocrx_word' id='word_1_6' title='bbox 1452 306 1668 345; x_wconf 66' lang='lat' dir='ltr'><em>VENVS.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1878 323 1915 357; x_wconf 76' lang='lat'><em>²5</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 62 512 1910 1870">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 62 512 1910 1870">
+     <span class='ocr_line' id='line_1_2' title="bbox 62 512 1910 1870; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 62 512 1910 1870; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 314 2071 1908 2225">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 314 2071 1908 2225">
+     <span class='ocr_line' id='line_1_3' title="bbox 314 2071 1908 2160; baseline 0.006 -36"><span class='ocrx_word' id='word_1_9' title='bbox 314 2075 512 2147; x_wconf 65' lang='lat' dir='ltr'><em>Sapiens</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 525 2091 602 2124; x_wconf 72' lang='lat' dir='ltr'><em>cor</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 614 2071 984 2148; x_wconf 53' lang='lat' dir='ltr'><em>&amp;intell4312bile</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1002 2075 1253 2147; x_wconf 54' lang='grc' dir='ltr'><em>αὲβίνεὲἱῄ</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1261 2076 1544 2151; x_wconf 48' lang='lat' dir='ltr'><em>&amp;peccatis</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1563 2083 1620 2145; x_wconf 65' lang='grc' dir='ltr'><em>ό</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1633 2088 1684 2136; x_wconf 59' lang='lat' dir='ltr'><em>ira</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1697 2081 1908 2160; x_wconf 66' lang='lat' dir='ltr'><em>cperjbm</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 441 2148 1489 2225; baseline 0.006 -25"><span class='ocrx_word' id='word_1_17' title='bbox 441 2148 843 2222; x_wconf 65' lang='lat' dir='ltr'><em>iustztzaeficcccffus</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 859 2150 1411 2225; x_wconf 60' lang='lat' dir='ltr'><em>habebit,Ecclcy2cgsilcl.;</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1435 2155 1489 2212; x_wconf 70' lang='lat' dir='ltr'><em>d,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

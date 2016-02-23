@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroparuusmundus00haec/mikroparuusmundus00haec_0070.png"; bbox 0 0 2018 2729; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 363 287 1910 384">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 363 287 1910 384">
+     <span class='ocr_line' id='line_1_1' title="bbox 363 287 1910 384; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 363 331 466 383; x_wconf 66' lang='lat' dir='ltr'><em>DE</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 499 328 848 384; x_wconf 67' lang='lat' dir='ltr'><em>PERILLO</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 884 330 985 380; x_wconf 73' lang='grc' dir='ltr'><em>ΞΤ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1021 329 1272 383; x_wconf 77' lang='lat' dir='ltr'><em>TAVRo</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1308 333 1539 379; x_wconf 65' lang='lat' dir='ltr'><em>AENea</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1838 287 1910 383; x_wconf 42' lang='grc' dir='ltr'><em>εἰ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 112 562 1972 1925">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 112 562 1972 1925">
+     <span class='ocr_line' id='line_1_2' title="bbox 112 562 1972 1925; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 112 562 1972 1925; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 587 2056 1880 2235">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 587 2056 1880 2235">
+     <span class='ocr_line' id='line_1_3' title="bbox 587 2056 1880 2141; baseline -0.002 -20"><span class='ocrx_word' id='word_1_8' title='bbox 587 2071 770 2121; x_wconf 69' lang='lat' dir='ltr'><em>Lacum</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 781 2056 1050 2141; x_wconf 43' lang='lat' dir='ltr'><em>alvernia&amp;</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1059 2061 1181 2139; x_wconf 72' lang='lat' dir='ltr'><em>efflui</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1187 2066 1223 2119; x_wconf 65' lang='grc' dir='ltr'><em>ἐι</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1231 2082 1354 2119; x_wconf 82' lang='lat' dir='ltr'><em>eum:</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1364 2064 1565 2129; x_wconf 67' lang='lat' dir='ltr'><em>&amp;incid</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1569 2064 1612 2120; x_wconf 82' lang='lat' dir='ltr'><em>it</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1625 2062 1880 2138; x_wconf 59' lang='lat' dir='ltr'><em>insana-,m</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 888 2142 1413 2235; baseline -0.01 -37"><span class='ocrx_word' id='word_1_16' title='bbox 888 2142 1168 2235; x_wconf 63' lang='lat' dir='ltr'><em>guamftcit.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1181 2142 1348 2212; x_wconf 63' lang='lat' dir='ltr'><em>Pſslm.</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1355 2165 1413 2214; x_wconf 73' lang='lat'><em>7⁶.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikroparuusmundus00haec/mikroparuusmundus00haec_0016.png"; bbox 0 0 2018 2729; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 57 321 1907 1894">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 57 321 1907 1894">
+     <span class='ocr_line' id='line_1_1' title="bbox 57 321 1907 1894; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 57 321 1907 1894; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 373 2072 1852 2215">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 373 2072 1852 2215">
+     <span class='ocr_line' id='line_1_2' title="bbox 373 2072 1852 2153; baseline 0.005 -26"><span class='ocrx_word' id='word_1_2' title='bbox 373 2081 528 2128; x_wconf 83' lang='lat' dir='ltr'><em>Homo</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 541 2083 682 2125; x_wconf 72' lang='lat' dir='ltr'><em>natus</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 692 2072 750 2124; x_wconf 80' lang='lat' dir='ltr'><em>de</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 761 2074 955 2128; x_wconf 74' lang='lat' dir='ltr'><em>muliere</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 967 2072 1099 2128; x_wconf 71' lang='lat' dir='ltr'><em>brem&#39;</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1108 2077 1281 2130; x_wconf 70' lang='lat' dir='ltr'><em>viams</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1293 2085 1499 2150; x_wconf 55' lang='lat' dir='ltr'><em>tempore</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1510 2077 1718 2153; x_wconf 66' lang='lat' dir='ltr'><em>repletur</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1729 2081 1852 2133; x_wconf 70' lang='lat' dir='ltr'><em>mal-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 446 2148 986 2215; baseline 0.004 -11"><span class='ocrx_word' id='word_1_11' title='bbox 446 2155 506 2205; x_wconf 82' lang='lat' dir='ltr'><em>tis</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 518 2151 733 2215; x_wconf 61' lang='lat' dir='ltr'><em>mfferzjs.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 769 2148 986 2213; x_wconf 72' lang='lat' dir='ltr'><em>lob.14.a.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
